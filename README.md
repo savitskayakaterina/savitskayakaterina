@@ -4,11 +4,11 @@ Hello ! My name is Katerina Savitskaya
 Junior Manual QA
 ----------------
 
-I am a Junior Manual QA with a strong drive for success and a passion for learning. I possess theoretical knowledge in manual QA and have gained practical experience as an assessor (tester) at Yandex for a period of 3 months. I have expertise in creating test plans, checklists, bug reports, and test cases for both mobile applications and web platforms. Additionally, I have hands-on experience working with various tools and technologies, including databases, bug tracking systems, Postman, and DevTools, acquired during my training under ArtsiomRusau. I am eager to apply my skills and contribute to the success of quality assurance initiatives. 
+I am a Junior Manual QA with a passion for learning. I possess theoretical knowledge in manual QA and have gained practical experience as an assessor (tester) at Yandex for a period of 3 months. I have expertise in creating test plans, checklists, bug reports, and test cases for both mobile applications and web platforms. Additionally, I have hands-on experience working with various tools and technologies, including databases, bug tracking systems, Postman, and DevTools, acquired during my training under ArtsiomRusau. I am eager to apply my skills and contribute to the success of quality assurance initiatives. 
 
 * 🌍  I'm based in Warsaw, Poland
 * ✉️  Connect with me [![LinkedIn Badge](https://img.shields.io/badge/-KaterinaSavitskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katerina-savitskaya-2ba5b190/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:katerina.savitskaya10@gmail.com)
-
+* 🔭 I’m currently working on an internship in mobile application testing. I have conducted exploratory testing and prepared documentation in accordance with the requirements, including checklists and bug reports.
 * 🤝  I'm open to collaborating on pet projects
 
 
