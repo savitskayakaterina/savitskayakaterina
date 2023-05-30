@@ -44,11 +44,13 @@ I have theoretical knowledge and practical experience in manual QA. I worked as 
 ---
 
 ### 💾 Test Artifacts
-* [web-testing](https://github.com/savitskayakaterina/web-testing-)
 * [test-design-documentation](https://github.com/savitskayakaterina/test-design-documentation)
-* [bash-commands](https://github.com/savitskayakaterina/bash-commands) 
+* [web-testing](https://github.com/savitskayakaterina/web-testing-)
+* [mobile-testing](https://github.com/savitskayakaterina/mobile-testing)
 * [api-testing REST and SOAP](https://github.com/savitskayakaterina/api-testing)
 * [data-base MySQL and MongoDB](https://github.com/savitskayakaterina/data-bases)
+* [bash-commands](https://github.com/savitskayakaterina/bash-commands) 
+
 
 
 
