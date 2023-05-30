@@ -41,6 +41,17 @@ I have theoretical knowledge and practical experience in manual QA. I worked as 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
 </div>
 
+---
+
+### 💾 Test Artifacts
+* [web-testing](https://github.com/savitskayakaterina/web-testing-)
+* [test-design-documentation](https://github.com/savitskayakaterina/test-design-documentation)
+* [bash-commands](https://github.com/savitskayakaterina/bash-commands) 
+
+
+
+
+
 
 
 <!--
