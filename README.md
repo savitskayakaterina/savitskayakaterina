@@ -57,7 +57,7 @@ I am a Junior Manual QA with a passion for learning. I possess theoretical knowl
 
 
 ---
-: '
+<!--
 ### 💻 Courses:
 
 | 💻 Course                                                      | Year |
@@ -66,7 +66,7 @@ I am a Junior Manual QA with a passion for learning. I possess theoretical knowl
 | Software Testing Introduction from Svyatoslav Kulikov        | 2022 |
 | SQL course from Olga Joidz (@olia_qacoach)                   | 2022 |
 | IBA Institute - Java Programming course                      | 2021 |
-'
+-->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=savitskayakaterina)
 
 
