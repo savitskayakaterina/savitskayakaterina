@@ -48,6 +48,7 @@ I have theoretical knowledge and practical experience in manual QA. I worked as 
 * [test-design-documentation](https://github.com/savitskayakaterina/test-design-documentation)
 * [bash-commands](https://github.com/savitskayakaterina/bash-commands) 
 * [api-testing REST and SOAP](https://github.com/savitskayakaterina/api-testing)
+* [data-base MySQL and MongoDB](https://github.com/savitskayakaterina/data-bases)
 
 
 
