@@ -1,7 +1,7 @@
 Hello ! My name is Katerina Savitskaya
 ===========================================================================================================================================
 
-Junior Manual QA
+QA Engineer
 ----------------
 
 I am a Junior Manual QA with a passion for learning. I possess theoretical knowledge in manual QA and have gained practical experience as an assessor (tester) at Yandex for a period of 3 months. I have expertise in creating test plans, checklists, bug reports, and test cases for both mobile applications and web platforms. Additionally, I have hands-on experience working with various tools and technologies, including databases, bug tracking systems, Postman, and DevTools, acquired during my training under ArtsiomRusau. I am eager to apply my skills and contribute to the success of quality assurance initiatives. 
@@ -57,7 +57,7 @@ I am a Junior Manual QA with a passion for learning. I possess theoretical knowl
 
 
 ---
-
+: '
 ### 💻 Courses:
 
 | 💻 Course                                                      | Year |
@@ -66,7 +66,7 @@ I am a Junior Manual QA with a passion for learning. I possess theoretical knowl
 | Software Testing Introduction from Svyatoslav Kulikov        | 2022 |
 | SQL course from Olga Joidz (@olia_qacoach)                   | 2022 |
 | IBA Institute - Java Programming course                      | 2021 |
-
+'
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=savitskayakaterina)
 
 
