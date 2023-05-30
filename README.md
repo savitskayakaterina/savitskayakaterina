@@ -3,7 +3,7 @@ Hello ! My name is Katerina Savitskaya
 
 QA Engineer
 ----------------
-I have theoretical knowledge and practical experience in manual QA. I worked as an assessor (tester) at Yandex for 3 months and gained expertise in creating test plans, checklists, bug reports, and test cases for mobile and web applications. I am familiar with various tools and technologies, including databases, bug tracking systems, Postman, and DevTools, which I learned during my training with [ArtsiomRusau](https://www.linkedin.com/in/artsiomrusau/)   . I am enthusiastic about applying my skills to contribute to quality assurance initiatives. 
+I have theoretical knowledge and practical experience in manual QA. I am familiar with various tools and technologies, including databases, bug tracking systems, Postman, and DevTools, test documentation, which I learned during my training with [ArtsiomRusau](https://www.linkedin.com/in/artsiomrusau/)   . I am enthusiastic about applying my skills to contribute to quality assurance initiatives. 
 
 * 🌍 I'm based in Warsaw, Poland
 * 📄 I invite you to have a look at my resume [LINK]
