@@ -3,14 +3,14 @@ Hello ! My name is Katerina Savitskaya
 
 QA Engineer
 ----------------
-I have theoretical knowledge and practical experience in manual QA. I am familiar with various tools and technologies, including databases, bug tracking systems, Postman, and DevTools, test documentation, which I learned during my training with [ArtsiomRusau](https://www.linkedin.com/in/artsiomrusau/)   . I am enthusiastic about applying my skills to contribute to quality assurance initiatives. 
+I have theoretical knowledge and practical experience in manual QA, familiar with various tools and technologies, including databases, bug tracking systems, Postman, and DevTools, test documentation, which I learned during my training with [ArtsiomRusau](https://www.linkedin.com/in/artsiomrusau/)   . I am enthusiastic about applying my skills to contribute to quality assurance initiatives. 
 
-* 🌍 I'm based in Warsaw, Poland
-* 📄 I invite you to have a look at my resume [LINK]
+* 📍 Warsaw, Poland
+* 📄 Have a look at my resume [LINK]
 * ✉️ Connect with me [![LinkedIn Badge](https://img.shields.io/badge/-KaterinaSavitskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katerina-savitskaya-2ba5b190/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:katerina.savitskaya10@gmail.com)
 * 🔭 I’m currently working on an internship in mobile application testing. I have conducted exploratory testing and prepared documentation in accordance with the requirements, including checklists and bug reports
-* 🤝  I'm open to collaborating on pet projects
-* 💬  I speak English, Russian, sprinkle a little Hebrew, and I'm currently unlocking the secrets of Polish
+* 🤝 I'm open to collaborating on pet projects
+* 💬 I speak English, Russian, sprinkle a little Hebrew, and I'm currently unlocking the secrets of Polish
 
 ---
 
