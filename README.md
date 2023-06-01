@@ -7,7 +7,7 @@ I have theoretical knowledge and practical experience in manual QA, familiar wit
 
 * 📍 Warsaw, Poland
 * 📄 Have a look at [my CV](https://drive.google.com/file/d/161qtbMQt4CDs183VAZ6dV5RuGvFMl9St/view?usp=sharing)
-* ✉️ Connect with me [![LinkedIn Badge](https://img.shields.io/badge/-KatsiarynaSavitskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katerina-savitskaya-2ba5b190/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:katerina.savitskaya10@gmail.com)
+* ✉️ Connect with me [![LinkedIn Badge](https://img.shields.io/badge/-KatsiarynaSavitskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katsiarynasavitskaya/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:katerina.savitskaya10@gmail.com)
 * 🔭 I’m currently working on an internship in mobile application testing, conducted exploratory testing and prepared documentation in accordance with the requirements, including checklists and bug reports
 * 🤝 I'm open to collaborating on pet projects
 * 💬 I speak English, Russian, sprinkle a little Hebrew, and I'm currently unlocking the secrets of Polish
