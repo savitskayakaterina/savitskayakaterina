@@ -6,7 +6,7 @@ QA Engineer
 I have theoretical knowledge and practical experience in manual QA, familiar with various tools and technologies, including databases, bug tracking systems, Postman, and DevTools, test documentation, which I learned during my training with [ArtsiomRusau](https://www.linkedin.com/in/artsiomrusau/)   . I am enthusiastic about applying my skills to contribute to quality assurance initiatives. 
 
 * 📍 Warsaw, Poland
-* 📄 Have a look at [my CV](https://drive.google.com/file/d/161qtbMQt4CDs183VAZ6dV5RuGvFMl9St/view?usp=sharing)
+* 📄 Have a look at [my CV](https://drive.google.com/file/d/10Uh3z7dIr1IKNNJhwTtnwl0_IeaD3739/view?usp=sharing)
 * ✉️ Connect with me [![LinkedIn Badge](https://img.shields.io/badge/-KatsiarynaSavitskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/katsiarynasavitskaya/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:katerina.savitskaya10@gmail.com)
 * 🔭 I’m currently working on an internship in mobile application testing, conducted exploratory testing and prepared documentation in accordance with the requirements, including checklists and bug reports
 * 🤝 I'm open to collaborating on pet projects
